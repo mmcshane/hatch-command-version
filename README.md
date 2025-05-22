@@ -1,4 +1,4 @@
-![PyPI - Version](https://img.shields.io/pypi/v/hatch-command-version)
+[![PyPI - Version](https://img.shields.io/pypi/v/hatch-command-version)](https://pypi.org/project/hatch-command-version)
 
 # hatch-command-version
 
