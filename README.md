@@ -1,3 +1,5 @@
+![PyPI - Version](https://img.shields.io/pypi/v/hatch-command-version)
+
 # hatch-command-version
 
 A version source plugin to the `hatchling.build` python build backend that obtains a version by running a command.
